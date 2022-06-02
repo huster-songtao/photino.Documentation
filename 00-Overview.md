@@ -15,7 +15,7 @@ Use Photino with your favorite web framework.
 <img src="Photino-hello-world-react-windows.png" style="display: block; width: 100%; max-width: 1000px;" alt="Photino.HelloWorld.React" />
 
 ## Quick Start for .NET Developers
-[Go to Quick Start]( ../00a-QuickStart.md )
+[Go to Quick Start]( 00a-QuickStart.md )
 
 ## The Photino Family
 ### Photino.Native
